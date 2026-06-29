@@ -103,7 +103,7 @@ $$f_{damping} = -k_d v$$
 
 **适用场景**：适合需要极致稳定性或大时间步长的场景，如离线渲染
 #### 三种积分方法的不同效果
-
+<img width="540" height="540" alt="不同方程" src="https://github.com/user-attachments/assets/767d38f7-c9a6-4ade-903a-8a3f5b9109ec" />
 
 ### 3.3 弹簧类型对布料形态的影响
 
@@ -127,6 +127,7 @@ $$f_{damping} = -k_d v$$
 - 添加剪切弹簧：布料抵抗剪切变形，保持网格完整性
 - 添加弯曲弹簧：布料具有抗弯能力，悬垂效果更加自然
 #### 不同弹簧的录屏
+<img width="480" height="480" alt="不同弹簧" src="https://github.com/user-attachments/assets/25249ea1-1efe-47ef-b0a9-977b2c061dbc" />
 
 
 ### 3.4 阻尼系数的影响
@@ -143,6 +144,7 @@ $$f_{damping} = -k_d v$$
 - 系统快速收敛，几乎无振荡
 - 布料运动显得"沉重"，缺乏弹性感
 #### 不同阻尼系数下的效果
+<img width="480" height="480" alt="不同阻尼" src="https://github.com/user-attachments/assets/c955fefc-ef38-4f36-aad4-1a5d8f48053e" />
 
 ### 3.5 球体碰撞效果分析
 
@@ -156,6 +158,7 @@ $$f_{damping} = -k_d v$$
 - 球体位置可实时拖动，布料动态响应
 - 关闭碰撞后布料自由穿过球体，凸显碰撞处理的重要性
 #### 小球的碰撞效果
+<img width="800" height="800" alt="碰撞效果" src="https://github.com/user-attachments/assets/00c5fe4e-2393-4ef9-a42b-56b3b6ac4dd5" />
 
 ## 四、结论
 
