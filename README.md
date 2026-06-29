@@ -103,7 +103,7 @@ $$f_{damping} = -k_d v$$
 
 **适用场景**：适合需要极致稳定性或大时间步长的场景，如离线渲染
 #### 三种积分方法的不同效果
-<img width="540" height="540" alt="不同方程" src="https://github.com/user-attachments/assets/767d38f7-c9a6-4ade-903a-8a3f5b9109ec" />
+<img width="540" height="540" alt="不同方程" src="https://github.com/user-attachments/assets/d62bcaa7-e29d-468a-98c8-0ca5c09eafa7" />
 
 ### 3.3 弹簧类型对布料形态的影响
 
